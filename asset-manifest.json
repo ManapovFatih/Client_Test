@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Client_Test/static/css/main.c2cab247.css",
+    "main.js": "/Client_Test/static/js/main.ad8806da.js",
+    "index.html": "/Client_Test/index.html",
+    "main.c2cab247.css.map": "/Client_Test/static/css/main.c2cab247.css.map",
+    "main.ad8806da.js.map": "/Client_Test/static/js/main.ad8806da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.ad8806da.js"
+  ]
+}
