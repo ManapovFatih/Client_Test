@@ -2,6 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://manapovfatih.github.io/Client_Test/",
   "dependencies": {
     "@react-native-community/checkbox": "^0.5.15",
     "@testing-library/jest-dom": "^5.16.5",
@@ -9,6 +10,7 @@
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.4.0",
     "bootstrap": "^5.2.3",
+    "gh-pages": "^5.0.0",
     "mobx": "^6.9.0",
     "mobx-react-lite": "^3.4.3",
     "nanoid": "^4.0.2",
